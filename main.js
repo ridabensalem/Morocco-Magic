@@ -1,7 +1,7 @@
 /* menu dropdown codes....... */
 const openHambuger = document.querySelector('.hambuger img');
 const menu = document.querySelector('.hide-menu');
-const closeButton = document.querySelector('.closeButton');
+const closeButton = document.querySelector('.close_button');
 /* open button */
 openHambuger.addEventListener('click', () => {
   menu.style.display = 'block';
@@ -19,17 +19,17 @@ closeButton.addEventListener('click', () => {
 /* menu dropdown codes for about page....... */
 const openHambugerAbout = document.getElementById('hambuger_about  img');
 const menuAbout = document.getElementById('hide_menu_about');
-const closeButtonAbout = document.getElementById('closeButton_about');
+const closingButton = document.getElementById('close_button_about');
 /* open button */
 openHambugerAbout.addEventListener('click', () => {
   menuAbout.style.display = 'block';
   openHambugerAbout.style.display = 'none';
-  closeButtonAbout.style.display = 'block';
+  closingButton.style.display = 'block';
 });
 
 /* clossing button ... */
 closeButton.addEventListener('click', () => {
   menuAbout.style.display = 'none';
   openHambugerAbout.style.display = 'block';
-  closeButtonAbout.style.display = 'none';
+  closingButton.style.display = 'none';
 });
