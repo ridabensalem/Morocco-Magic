@@ -119,7 +119,7 @@ the culture, the heritage of Morocco
 ![big-tv-tv](https://user-images.githubusercontent.com/87722869/212050961-a1c939a9-4c7d-4daf-a6e1-d30867d08a73.gif)
 
 
-- [video description Link](https://www.loom.com/share/c07d29b2c80d46b8a5d8fb72764d9ae5)
+- [video description Link -loom](https://www.loom.com/share/c07d29b2c80d46b8a5d8fb72764d9ae5)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -210,9 +210,8 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@ridabensalem](https://github.com/ridabensalem)
 - Twitter: [@twitterhandle](https://twitter.com/)
@@ -258,7 +257,7 @@ If you like this project...
 
 
 
-I would like to thank [Cindy Shin.](https://www.behance.net/adagio07)
+I would like to thank [Cindy Shin.](https://www.behance.net/adagio07) of the great design in Behance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -282,7 +281,5 @@ I would like to thank [Cindy Shin.](https://www.behance.net/adagio07)
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
